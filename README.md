@@ -1,4 +1,4 @@
-code demonstrates how to use Optuna for hyperparameter optimization in machine learning models, including SVM, RandomForest, and GradientBoosting. The objective is to dynamically and statically tune the hyperparameters to maximize model accuracy.
+This code demonstrates how to use Optuna for hyperparameter optimization in machine learning models, including SVM, RandomForest, and GradientBoosting. The objective is to dynamically and statically tune the hyperparameters to maximize model accuracy.
 
 Steps covered:
 Data Preprocessing: The code starts by loading the Pima Indians Diabetes dataset, cleaning it by replacing zeros in certain columns with NaN, and filling the missing values with column-wise means. Then, it splits the dataset into training and testing sets, and applies standard scaling to the features.
